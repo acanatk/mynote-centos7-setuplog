@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# mynote-template documentation build configuration file, created by
+# mynote-centos7-setup documentation build configuration file, created by
 # sphinx-quickstart on Sun Jun  4 20:24:18 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'mynote-template'
+project = u'mynote-centos7-setup'
 copyright = u'2017, acanatk'
 author = u'acanatk'
 
@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'mynote-templatedoc'
+htmlhelp_basename = 'mynote-centos7-setupdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'mynote-template.tex', u'mynote-template Documentation',
+    (master_doc, 'mynote-centos7-setup.tex', u'mynote-centos7-setup Documentation',
      u'acanatk', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'mynote-template', u'mynote-template Documentation',
+    (master_doc, 'mynote-centos7-setup', u'mynote-centos7-setup Documentation',
      [author], 1)
 ]
 
@@ -149,8 +149,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'mynote-template', u'mynote-template Documentation',
-     author, 'mynote-template', 'One line description of project.',
+    (master_doc, 'mynote-centos7-setup', u'mynote-centos7-setup Documentation',
+     author, 'mynote-centos7-setup', 'One line description of project.',
      'Miscellaneous'),
 ]
 
