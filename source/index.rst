@@ -1,20 +1,17 @@
-.. mynote-template documentation master file, created by
-   sphinx-quickstart on Sun Jun  4 20:24:18 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+######################################################################
+CentOS 7 セットアップログ
+######################################################################
 
-Welcome to mynote-template's documentation!
-===========================================
+| このドキュメントでは、CentOS7 を最小構成でインストールした後に行った設定等について記述してあります。
+|
+| また、個人用のアプリケーション開発環境のためセキュリティ関係の配慮はされていません。
+| そのため、プロダクション環境ではセキュリティ関係を考慮した設定を行う必要があります。
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: 目次
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   ./01_selinux.rst
+   ./02_vim.rst
+   ./03_ftp.rst
+   ./04_ssh.rst
