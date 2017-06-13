@@ -90,6 +90,7 @@ html_theme = 'basicstrap'
 #
 html_theme_options = {
     'rightsidebar': True,
+    'header_inverse': True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
