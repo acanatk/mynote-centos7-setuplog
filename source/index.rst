@@ -15,3 +15,4 @@ CentOS 7 セットアップログ
    ./02_vim.rst
    ./03_ftp.rst
    ./04_ssh.rst
+   ./05_epel.rst
