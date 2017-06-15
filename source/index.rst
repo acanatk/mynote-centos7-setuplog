@@ -16,3 +16,4 @@ CentOS 7 セットアップログ
    ./03_ftp.rst
    ./04_ssh.rst
    ./05_epel.rst
+   ./06_ipv6disable.rst
